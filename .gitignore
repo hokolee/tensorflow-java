@@ -1,0 +1,31 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+!.idea/codeStyleSettings.xml
+**/*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+target/
+release/
+dependency-reduced-pom.xml
+*/dependency-reduced-pom.xml
+/tree
+
+# VIM
+*.swp
+*.swo
+
+# Python
+*.py[cod]
+
+*~
+#jupyter
+.ipynb_checkpoints/
